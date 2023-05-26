@@ -1,7 +1,7 @@
 {
   "name": "hw-2",
   "version": "0.1.0",
-  "homepage": "https://djarkimbaevbakyt6561.github.io/Redux-Toolkit-Order-Foods",
+  "homepage": "https://djarkimbaevbakyt6561.github.io/Redux-Toolkit-Order-Food",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
